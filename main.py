@@ -6,7 +6,7 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}. GitHub Actions now available')  # Press Ctrl+Shift+B to toggle the breakpoint.
+    print(f'Hi, {name}. GitHub Actions now available - 3')  # Press Ctrl+Shift+B to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
